@@ -1,3 +1,4 @@
+# финальный вариант с обьяснениями 
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.button import Button
@@ -50,3 +51,5 @@ class CalculatorApp(App):
 if __name__ == '__main__':
     CalculatorApp().run()
     # метод run() чтобы запустить приложение
+
+    
